@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quality Metal Buildings | Get a Free Quote | Glacier Sales</title>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3D4GWCEWJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-Q3D4GWCEWJ');
+    </script>
+    
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '615568854530232');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=615568854530232&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+        }
+        .hero-bg {
+            background-color: #1a237e; /* Deep blue */
+            background-image: linear-gradient(to bottom right, #1a237e, #283593);
+        }
+        .cta-button {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }
+        .testimonial-card {
+             background-color: #ffffff;
+             border-left: 5px solid #3f51b5;
+        }
+         .form-container {
+            background-color: #f0f4f8; /* Light blue-gray */
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <!-- HERO SECTION -->
+    <section class="hero-bg text-white py-20 px-4">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-4xl md:text-6xl font-black mb-4">Get a Fast, Free Quote on Your Perfect Metal Building</h1>
+            <p class="text-lg md:text-xl text-blue-200 mb-8">We'll help you design the ideal carport, garage, or RV cover for your property and provide a detailed, no-obligation quote within 24 hours.</p>
+            <a href="#quote-form" class="cta-button bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-10 rounded-full text-xl shadow-lg inline-block">
+                GET MY FREE QUOTE NOW
+            </a>
+            <p class="mt-4 text-blue-200 text-lg">
+                Or Call/Text Us: <a href="tel:417-612-0083" class="font-bold hover:underline">417-612-0083</a>
+            </p>
+        </div>
+    </section>
+
+    <!-- PHOTO GALLERY -->
+    <section class="py-16 bg-white px-4">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold text-center text-blue-900 mb-10">See Our Quality Work</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="text-center">
+                    <img src="https://imgur.com/8ZObbF4.png" alt="Finished Metal Garage" class="w-full h-auto rounded-xl shadow-lg mb-4">
+                    <h3 class="text-xl font-bold text-gray-800">Enclosed Garages</h3>
+                </div>
+                <div class="text-center">
+                    <img src="https://imgur.com/4kCFK81.png" alt="Tall RV Cover" class="w-full h-auto rounded-xl shadow-lg mb-4">
+                    <h3 class="text-xl font-bold text-gray-800">RV Covers</h3>
+                </div>
+                <div class="text-center">
+                    <img src="https://imgur.com/LSJGsEG.png" alt="Red Metal Carport" class="w-full h-auto rounded-xl shadow-lg mb-4">
+                    <h3 class="text-xl font-bold text-gray-800">Carports</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+     <!-- CREDIBILITY SECTION -->
+    <section class="bg-gray-100 py-16 px-4">
+        <div class="max-w-5xl mx-auto text-center">
+            <h2 class="text-3xl font-bold text-blue-900 mb-10">Why Choose Glacier Sales?</h2>
+            <div class="flex flex-wrap justify-center items-center gap-8 md:gap-12">
+                <div class="flex items-center gap-3">
+                    <img src="https://imgur.com/kOJjZxx.png" alt="Eagle Carports Logo" class="h-16 w-auto rounded-xl">
+                    <span class="font-bold text-lg text-gray-700">Eagle Carports<br>Trusted Partner</span>
+                </div>
+                <div class="text-center">
+                    <p class="text-2xl font-bold text-blue-800">✓</p>
+                    <p class="font-semibold text-gray-700">90-Day Workmanship<br>Warranty</p>
+                </div>
+                <div class="text-center">
+                    <p class="text-2xl font-bold text-blue-800">✓</p>
+                    <p class="font-semibold text-gray-700">20-Year Metal<br>Warranty</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- TESTIMONIALS SECTION -->
+    <section class="py-16 px-4">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold text-center text-blue-900 mb-10">What Our Customers Are Saying</h2>
+            <div class="space-y-8">
+                <div class="testimonial-card p-8 rounded-xl shadow-lg">
+                    <p class="text-gray-600 mb-4 text-lg">"These guys are top notch! Quick and easy process! Would definitely recommend to anyone!"</p>
+                    <p class="font-bold text-right text-gray-800">- Scott B.</p>
+                </div>
+                <div class="testimonial-card p-8 rounded-xl shadow-lg">
+                    <p class="text-gray-600 mb-4 text-lg">"The guys that put my carport up were very punctual and professional. The carport is made very strong and it arrived within the time frame that I was given. Cody was very professional when I contacted him and checked on my approval of the structure after it was installed. I have already recommended Glacier to two other friends. Thank you Cody for all your help we love our new carport."</p>
+                    <p class="font-bold text-right text-gray-800">- Bob U.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FORM SECTION -->
+    <section id="quote-form" class="form-container py-20 px-4">
+        <div class="max-w-2xl mx-auto">
+            <div class="bg-white p-8 md:p-12 rounded-2xl shadow-2xl">
+                <h2 class="text-3xl font-bold text-center text-blue-900 mb-2">Tell Us About Your Building</h2>
+                <p class="text-center text-gray-600 mb-8">Fill out the form below for a fast, no-obligation quote.</p>
+                <form id="leadForm" class="space-y-6">
+                    <input type="text" name="name" placeholder="Your Name (Required)" required class="w-full p-4 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500">
+                    <input type="email" name="email" placeholder="Your Email (Required)" required class="w-full p-4 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500">
+                    <input type="tel" name="phone" placeholder="Phone Number (Optional)" class="w-full p-4 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500">
+                    
+                    <select name="building_type" required class="w-full p-4 border border-gray-300 rounded-xl bg-white focus:ring-2 focus:ring-blue-500">
+                        <option value="" disabled selected>Select Building Type...</option>
+                        <option value="Carport">Carport</option>
+                        <option value="Garage">Enclosed Garage</option>
+                        <option value="RV Cover">RV Cover</option>
+                    </select>
+                    
+                    <input type="text" name="dimensions" placeholder="Approximate Dimensions (e.g., 24x30)" class="w-full p-4 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500">
+                    <textarea name="details" placeholder="Questions or details about your project..." rows="4" class="w-full p-4 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500"></textarea>
+                    
+                    <button type="submit" class="w-full cta-button bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-10 rounded-full text-xl shadow-lg">
+                        Send My Quote Request
+                    </button>
+                </form>
+                 <div class="text-center mt-6">
+                    <h3 class="text-lg font-semibold text-gray-800">Prefer to Talk?</h3>
+                    <p class="text-gray-600">Call or Text us at <a href="tel:417-612-0083" class="font-bold text-blue-600 hover:underline">417-612-0083</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-blue-900 text-white text-center py-6">
+        <p>&copy; 2025 Glacier Sales | Quality Metal Buildings</p>
+    </footer>
+
+    <!-- Hidden iframe for background form submission -->
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
+
+    <script>
+        // --- Smooth Scrolling for the Main CTA Button ---
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // --- Custom Form Submission and Redirect Logic ---
+        const leadForm = document.getElementById('leadForm');
+        const hiddenIframe = document.getElementById('hidden_iframe');
+
+        leadForm.addEventListener('submit', function(e) {
+            e.preventDefault(); // Stop the default form action
+            
+            const formData = new FormData(leadForm);
+            const googleFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSfcSoBRhd7kp1WYp22dU3_3vzFao_FKBLgP_n2Njcp23qz0Sg/formResponse";
+            
+            const params = new URLSearchParams();
+            params.append('entry.1819116318', formData.get('name'));
+            params.append('entry.1988670968', formData.get('email'));
+            params.append('entry.1253183456', formData.get('phone'));
+            params.append('entry.951427193', formData.get('building_type'));
+            params.append('entry.427748272', formData.get('dimensions'));
+            params.append('entry.458568703', formData.get('details'));
+
+            // Submit data to the hidden iframe
+            hiddenIframe.src = `${googleFormUrl}?${params.toString()}`;
+
+            // Redirect to the Thank You page after a short delay
+            setTimeout(() => {
+                window.location.href = 'https://sites.google.com/view/glacier-sales/thank-you-page';
+            }, 500); // 0.5 second delay
+        });
+
+    </script>
+
+</body>
+</html>
+
